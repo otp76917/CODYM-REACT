@@ -1,0 +1,19 @@
+{
+    "maquinas": [
+      {
+        "nombre":"Multifunción",
+        "ejercicios":["Pectorales","Deltoides","Dorsales","Trapecios","Bíceps","Tríceps","Abdominales","Cuádriceps","Glúteos","Isquiotibiales"],
+        "imagen":"direccionImagen"
+      },
+      {
+        "nombre":"Multipower",
+        "ejercicios":["Pectorales","Hombros","Espalda","Bíceps","Tríceps","Abdominales","Cuádriceps","Glúteos","Isquiotibiales"],
+        "imagen":"direccionImagen"
+      },
+      {
+        "nombre":"Cinta de correr",
+        "ejercicios":"Piernas",
+        "imagen":"direccionImagen"
+      }
+    ]
+  }
